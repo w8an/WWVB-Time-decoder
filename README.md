@@ -11,5 +11,5 @@ Requires a radio receiver such as the module available from PV Electronics at:
 Data sheet for [C-MAX CMMR-6](http://w8an.net/cmmr6/CMMR-6P-A2-1.pdf)
 
 Video of running demo.
-[http://youtu.be/ETOKIrwbhDU](http://youtu.be/ETOKIrwbhDU)
-[http://youtu.be/xOaToQSoQJU](http://youtu.be/xOaToQSoQJU)
+ - [http://youtu.be/ETOKIrwbhDU](http://youtu.be/ETOKIrwbhDU) 
+ - [http://youtu.be/xOaToQSoQJU](http://youtu.be/xOaToQSoQJU)

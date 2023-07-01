@@ -4,7 +4,8 @@ Here is a decoder for the time signals sent from station WWVB on 60 kHz radio fr
 
 The object includes a standard time keeping clock using the Parallax Propeller's crystal as a time base. The clock is updated by the time data received from the WWVB station when decoding is successful.
 
-Requires a radio receiver such as the module available from PV Electronics at: 
+Requires a radio receiver such as the module available from: 
+ - https://www.amazon.com/gp/product/B01KH3VEGS/ref=ox_sc_act_title_1?smid=A29AOP4GIE7DX6&psc=1 
  - https://www.sparkfun.com/products/retired/10060 (retired)
  - http://www.pvelectronics.co.uk/index.php?main_page=product_info&products (no longer available)
 

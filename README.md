@@ -8,7 +8,8 @@ Requires a radio receiver such as the module available from:
  - https://www.amazon.com/gp/product/B01KH3VEGS/ref=ox_sc_act_title_1?smid=A29AOP4GIE7DX6&psc=1 
  - https://www.sparkfun.com/products/retired/10060 (retired)
  - http://www.pvelectronics.co.uk/index.php?main_page=product_info&products (no longer available)
-Also often available on ebay. Search: **60kHz WWVB Receiver**
+
+_Also often available on ebay._ Search: **60kHz WWVB Receiver**
 
 Data sheet for [C-MAX CMMR-6](http://w8an.net/cmmr6/CMMR-6P-A2-1.pdf)
 

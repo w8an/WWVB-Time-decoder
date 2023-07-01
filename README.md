@@ -13,6 +13,7 @@ Requires a radio receiver such as the module available from:
 _Also, often available on ebay. Search:_ **60kHz WWVB Receiver**
 
 Data sheet for [CANADUINO Time Signal AM Receiver Kit ](https://w8an.net/wwvb/CANADUINO_Atomic_Clock_Receiver_Kit_SMD.pdf)
+
 Data sheet for [C-MAX CMMR-6](http://w8an.net/cmmr6/CMMR-6P-A2-1.pdf)
 
 Video of running demo.

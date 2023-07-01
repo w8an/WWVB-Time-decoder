@@ -9,7 +9,7 @@ Requires a radio receiver such as the module available from:
  - https://www.sparkfun.com/products/retired/10060 (retired)
  - http://www.pvelectronics.co.uk/index.php?main_page=product_info&products (no longer available)
 
-_Also often available on ebay._ Search: **60kHz WWVB Receiver**
+_Also, often available on ebay._ Search: **60kHz WWVB Receiver**
 
 Data sheet for [C-MAX CMMR-6](http://w8an.net/cmmr6/CMMR-6P-A2-1.pdf)
 

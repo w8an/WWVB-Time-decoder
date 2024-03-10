@@ -6,7 +6,7 @@ The object includes a standard time keeping clock using the Parallax Propeller's
 
 Requires a radio receiver such as the module available from: 
  - https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/Atomic-Clock-Receiver-60kHz/15760544 
- - https://www.amazon.com/gp/product/B01KH3VEGS/ref=ox_sc_act_title_1?smid=A29AOP4GIE7DX6&psc=1 
+ - https://www.amazon.com/gp/product/B01KH3VEGS 
  - https://www.sparkfun.com/products/retired/10060 (retired)
  - http://www.pvelectronics.co.uk/index.php?main_page=product_info&products (no longer available)
 
